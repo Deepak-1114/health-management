@@ -142,7 +142,7 @@ A modern web application for managing doctors, patients, and appointments. Built
 
 1. **Clone & Install:**
    ```bash
-   git clone https://github.com/sahil-saroj/hms.git
+   git clone https://github.com/deepak-nishad/hms.git
    cd doctor-management
    ```
 
@@ -172,7 +172,7 @@ MediConnect/
 
 ## 🎨 Developer
 
-Crafted with ❤️ by **Sahil Saroj**
+Crafted with ❤️ by **Deepak Nishad**
 
 
 ---
