@@ -111,7 +111,7 @@ A modern web application for managing doctors, patients, and appointments. Built
 
 ## Live Demo
 
-[Live Link (sahil)](https://hms-frontend.vercel.app)
+[Live Link (Deepak)](https://hms-frontend.vercel.app)
 
 ## Features
 - Admin and Doctor dashboards
