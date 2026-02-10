@@ -1,4 +1,4 @@
-# 🏥 MediConnect Pro
+
 
 ## Revolutionizing Healthcare Management
 
