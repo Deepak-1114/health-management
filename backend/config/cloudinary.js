@@ -1,4 +1,4 @@
-// author: sahil saroj
+// author: Deepak Nishad
 import { v2 as cloudinary } from "cloudinary";
 
 const connectCloudinary = async () => {
