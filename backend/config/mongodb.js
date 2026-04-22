@@ -1,4 +1,4 @@
-// author: sahil saroj
+// author: Deepak Nishad
 import mongoose, { mongo } from "mongoose";
 
 const connectDB = async () => {
